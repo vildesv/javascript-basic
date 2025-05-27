@@ -1,6 +1,8 @@
 ## Javascript Basic Oppgave 1: Variables & Conditionals
 
-**Første gjøremål**: Lag en fil som heter javascript.js og kopier koden under inn i den. Dine løsninger skal legges inn mellom kommentarblokkene.
+Lag en fil som heter javascript.js og kopier koden under inn i den. Dine løsninger skal legges inn mellom kommentarblokkene.
+
+---
 
 > **OPPGAVE 1**
 > 

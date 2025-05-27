@@ -1,4 +1,4 @@
-## Javascript Basic Oppgave 1: Variables & Conditionals
+## JavaScript Basic Oppgave 1: Variables & Conditionals
 
 Lag en fil som heter javascript.js og kopier koden under inn i den. Dine løsninger skal legges inn mellom kommentarblokkene.
 
